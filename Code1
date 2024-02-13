@@ -1,0 +1,3 @@
+print "Nothing"
+textwindow "Error"
+print "404"
